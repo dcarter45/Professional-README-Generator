@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/dcarter45/Professional-README-Generator#readme",
   "dependencies": {
+    "handlebars": "^4.7.7",
     "inquirer": "^8.1.2"
   }
 }
