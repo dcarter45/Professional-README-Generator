@@ -26,7 +26,7 @@ inquirer.prompt([
     },
     {
         type: 'input',
-        message: 'What kind of licesnse should your project have?:',
+        message: 'What kind of license should your project have?:',
         name: 'licenseType'
     },
     {
@@ -61,7 +61,7 @@ inquirer.prompt([
         const template = handlebars.compile(templateText);
         let readmeText = template(answers);
         console.log(readmeText);
-        fs.writeFile('generateReadMe.md', readmeText, (err) =>
+        fs.writeFile('ReadMe.md', readmeText, (err) =>
         err ? console.error(err) : console.log('Success!')
         );
     })
