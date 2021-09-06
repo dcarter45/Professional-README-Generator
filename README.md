@@ -1,9 +1,9 @@
  
- # README
+ # PROFESSIONAL README GENERATOR
  https://github.com/dcarter45/Professional-README-Generator
 
 ## Description 
-allows to crate
+This app allows users to create a readme file
 
 
 # Table of Contents
@@ -14,25 +14,26 @@ allows to crate
 * [contributing](#contributing)
 * [questions](#questions)
 
+## installation 
 NPM i
 
 ## usage
 
 ```
-demo
+This is just a demo repo
 
 ```
 ## Testing  
 
 
 ## contributing 
-demo
+this is just a demo repo, there will be no contributing
 
 ## Questions
 
  https://github.com/dcarter45
-  username: dcarter45
-  email: ddd@cc.com
+  username: Dcarter45
+  email: Darrellcarter22@gmail.com
   please leave a detailed email or github message if you have any further questions.
 
 
