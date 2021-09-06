@@ -37,7 +37,7 @@ inquirer.prompt([
     {
         type: 'input',
         message: 'What command should be run to run tests?:',
-        name: ' test'
+        name: 'test'
     },
     {
         type: 'input',
