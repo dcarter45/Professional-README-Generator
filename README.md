@@ -1,9 +1,9 @@
  
- # s
+ # README
  https://github.com/dcarter45/Professional-README-Generator
 
 ## Description 
-s
+allows to crate
 
 
 # Table of Contents
@@ -14,29 +14,29 @@ s
 * [contributing](#contributing)
 * [questions](#questions)
 
-s
+NPM i
 
-## Executing program 
+## usage
 
 ```
-s
+demo
 
 ```
 ## Testing  
 
 
 ## contributing 
-s
+demo
 
 ## Questions
 
  https://github.com/dcarter45
-  username: s
-  email: s
+  username: dcarter45
+  email: ddd@cc.com
   please leave a detailed email or github message if you have any further questions.
 
 
 ## License 
 
-This project is licensed under the  License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE.md file for details
 
