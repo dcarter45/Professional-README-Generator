@@ -1,21 +1,22 @@
  
- # PROFESSIONAL README GENERATOR
+ # PROFESSION README GENERATOR
  https://github.com/dcarter45/Professional-README-Generator
+ https://drive.google.com/file/d/1mQp59jFnnEUwWHAUvx2dk_Ho1E6dvY_y/view
 
 ## Description 
-This app allows users to create a readme file
+This app allows users to create a professional readme file
 
 
 # Table of Contents
 * [installation](#install)
 * [usage](#usage)
 * [license](#license)
-* [testing](#testing)
+* [testing](#test)
 * [contributing](#contributing)
 * [questions](#questions)
 
 ## installation 
-NPM i
+You shoud run NPM i to install dependencies
 
 ## usage
 
@@ -27,13 +28,13 @@ This is just a demo repo
 
 
 ## contributing 
-this is just a demo repo, there will be no contributing
+This is just a demo repo, there will be no contributing
 
 ## Questions
 
  https://github.com/dcarter45
   username: Dcarter45
-  email: Darrellcarter22@gmail.com
+  email: DarrellCarter22@gmail.com
   please leave a detailed email or github message if you have any further questions.
 
 
